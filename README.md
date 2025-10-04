@@ -63,7 +63,7 @@ pip install scikit-learn
 
 Lancer le script :
 
-``bash
+```bash
 
 python music_predictor_vectorizer.py
 
